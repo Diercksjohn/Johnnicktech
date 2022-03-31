@@ -26,14 +26,13 @@
         </ul>
     </nav>
 
-    <!-- was going to put this on top of the main header page and make the logo a link -->
-
-    <div class="container">
+    <div class="px-4 py-5 my-5 text-center">
         <h1 class="d-flex justify-content-center">JohnickTech</h1>
         <h1 class="d-flex justify-content-center">Insert Subheading here</h1>
     </div>
     
 
+    <!-- was going to put this on top of the main header page and make the logo a link -->
     <section class="container text-center">
         <!-- about - all is just filler text for now-->
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit cumque iure ab officia vitae doloremque odio nobis ratione! Saepe officiis nobis, autem omnis quaerat excepturi eaque deleniti sint delectus repellat.
